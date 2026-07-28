@@ -1,8 +1,8 @@
-Hi, I'm Cordelia 
-Welcome to my GitHub!
-I am a Chartered Secretary & Administrator, Certified Human Resource Professional (CHRP), and Data Analytics Professional with over 21 years of experience in corporate governance, human resources, administration, and business consulting. I enjoy solving business problems through structured governance, data-driven decision-making, and practical management solutions.
-About Me
-Corporate Governance & Board Advisory
+##Hi, I'm Cordelia 
+##Welcome to my GitHub!
+##I am a Chartered Secretary & Administrator, Certified Human Resource Professional (CHRP), and Data Analytics Professional with over 21 years of experience in corporate governance, human resources, administration, and business consulting. I enjoy solving business problems through structured governance, data-driven decision-making, and practical management solutions.
+###About Me
+#Corporate Governance & Board Advisory
 Human Capital Management
 Company Secretarial Practice
 Corporate Compliance
