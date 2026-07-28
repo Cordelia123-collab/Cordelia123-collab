@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 I am a Chartered Secretary & Administrator, Certified Human Resource Professional (CHRP), and Data Analytics Professional with over 21 years of experience in corporate governance, human resources, administration, and business consulting. I enjoy solving business problems through structured governance, data-driven decision-making, and practical management solutions.
 
-What I do:
+**What I do:**
 
 Corporate Governance & Board Advisory
 
@@ -21,11 +21,11 @@ What I do:
 Executive & Administrative Support
 
 
-My mission:
+**My mission:**
 
 To help organisations build strong governance structures, high-performing teams, and smarter business systems that drive sustainable growth.
 
-Technical Skills:
+**Technical Skills:**
 
 Governance & HR
 
@@ -55,7 +55,7 @@ Data Analytics
 
 Dashboard Development
 
-Certifications:
+**Certifications:**
 
 MBA in Human Resources Management
 
@@ -67,16 +67,17 @@ Certifications:
 
 Foundational Course on Generative AI
 
-Featured Projects:
+**Featured Projects:**
 
 Bank of America Consumer Complaints Analysis
 
-Tools: 
+**Tools: **
 Excel • Power BI
 
+**Description:**
 Analyzed consumer complaint data (2017–2023) to identify trends, complaint categories, geographic patterns, customer submission channels, and company response performance. Developed interactive dashboards to support data-driven decision-making.
 
-GitHub Goals:
+**GitHub Goals:**
 
 Build a portfolio of high-impact projects that showcase expertise in data analytics, corporate governance, human capital management, compliance, and business process improvement.
 
@@ -93,6 +94,7 @@ GitHub Goals:
 Build meaningful professional relationships, contribute to knowledge sharing, and leverage technology to solve complex business challenges and drive sustainable organizational growth.
 
 Use this platform to demonstrate how governance, people management, compliance, and data analytics work together to deliver strategic, ethical, and impactful business outcomes.
+
 Let's Connect
 
 LinkedIn: www.linkedin.com/in/cordeliajiakponna
