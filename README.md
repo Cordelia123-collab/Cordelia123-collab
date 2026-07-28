@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Cordelia123-collab/Cordelia123-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm Cordelia 
+Hi, I'm Cordelia 
 Welcome to my GitHub!
 I am a Chartered Secretary & Administrator, Certified Human Resource Professional (CHRP), and Data Analytics Professional with over 21 years of experience in corporate governance, human resources, administration, and business consulting. I enjoy solving business problems through structured governance, data-driven decision-making, and practical management solutions.
 About Me
