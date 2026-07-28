@@ -21,7 +21,9 @@ What I do:
 Executive & Administrative Support
 
 
-My mission is to help organisations build strong governance structures, high-performing teams, and smarter business systems that drive sustainable growth.
+My mission:
+
+To help organisations build strong governance structures, high-performing teams, and smarter business systems that drive sustainable growth.
 
 Technical Skills:
 
@@ -76,14 +78,21 @@ Analyzed consumer complaint data (2017–2023) to identify trends, complaint cat
 
 GitHub Goals:
 
-Build a strong portfolio of real-world analytics projects.
+Build a portfolio of high-impact projects that showcase expertise in data analytics, corporate governance, human capital management, compliance, and business process improvement.
 
-Contribute to open-source and collaborative initiatives.
+Develop practical solutions that help organizations strengthen governance frameworks, improve operational efficiency, optimize workforce performance, and make data-driven decisions.
 
-Share practical solutions that bridge governance, HR, and data analytics.
+Share dashboards, governance templates, HR resources, compliance tools, and business intelligence solutions that create measurable value for organizations.
 
-Continuously improve through learning and community engagement.
+Contribute to open-source initiatives, collaborate with professionals across disciplines, and actively engage with the global technology, governance, and business communities.
 
+Continuously expand my expertise in Power BI, SQL, Excel, Python, artificial intelligence, corporate governance, and emerging business technologies through lifelong learning and hands-on projects.
+
+Document my learning journey, share insights and best practices, and inspire professionals transitioning into data analytics, governance, HR, and business consulting.
+
+Build meaningful professional relationships, contribute to knowledge sharing, and leverage technology to solve complex business challenges and drive sustainable organizational growth.
+
+Use this platform to demonstrate how governance, people management, compliance, and data analytics work together to deliver strategic, ethical, and impactful business outcomes.
 Let's Connect
 
 LinkedIn: www.linkedin.com/in/cordeliajiakponna
